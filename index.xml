@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>alltext</title>
-    <link>https://llm1538.github.io/alltext.github.io/</link>
+    <link>https://eggstudio.de/</link>
     <description>Recent content on alltext</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jul 2023 20:18:25 +0800</lastBuildDate><atom:link href="https://llm1538.github.io/alltext.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Jul 2023 20:18:25 +0800</lastBuildDate><atom:link href="https://eggstudio.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Piezo_duo</title>
-      <link>https://llm1538.github.io/alltext.github.io/posts/piezo_duo/</link>
+      <link>https://eggstudio.de/posts/piezo_duo/</link>
       <pubDate>Wed, 12 Jul 2023 20:18:25 +0800</pubDate>
       
-      <guid>https://llm1538.github.io/alltext.github.io/posts/piezo_duo/</guid>
+      <guid>https://eggstudio.de/posts/piezo_duo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About modular.khiat</title>
-      <link>https://llm1538.github.io/alltext.github.io/posts/about/</link>
+      <link>https://eggstudio.de/posts/about/</link>
       <pubDate>Wed, 12 Jul 2023 19:29:12 +0800</pubDate>
       
-      <guid>https://llm1538.github.io/alltext.github.io/posts/about/</guid>
+      <guid>https://eggstudio.de/posts/about/</guid>
       <description>test </description>
     </item>
     
     <item>
       <title>piezo_duo</title>
-      <link>https://llm1538.github.io/alltext.github.io/photos/piezo_duo-1/</link>
+      <link>https://eggstudio.de/photos/piezo_duo-1/</link>
       <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://llm1538.github.io/alltext.github.io/photos/piezo_duo-1/</guid>
+      <guid>https://eggstudio.de/photos/piezo_duo-1/</guid>
       <description>The pizo_duo ver 0.1 is kool. Designed by Sitao Yang also known as Khiat. Double preamp of piezo.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://llm1538.github.io/alltext.github.io/about/</link>
+      <link>https://eggstudio.de/about/</link>
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
       
-      <guid>https://llm1538.github.io/alltext.github.io/about/</guid>
+      <guid>https://eggstudio.de/about/</guid>
       <description>See the 圆形科技局 for more information.
 Khiat </description>
     </item>
