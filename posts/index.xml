@@ -16,23 +16,5 @@
       <description>##test</description>
     </item>
     
-    <item>
-      <title>My 2first Post</title>
-      <link>https://llm1538.github.io/alltext.github.io/posts/my-2first-post/</link>
-      <pubDate>Wed, 12 Jul 2023 03:24:13 +0800</pubDate>
-      
-      <guid>https://llm1538.github.io/alltext.github.io/posts/my-2first-post/</guid>
-      <description>asfljhk ##141241243</description>
-    </item>
-    
-    <item>
-      <title>TEST-1</title>
-      <link>https://llm1538.github.io/alltext.github.io/posts/my-first-post/</link>
-      <pubDate>Wed, 12 Jul 2023 03:03:13 +0800</pubDate>
-      
-      <guid>https://llm1538.github.io/alltext.github.io/posts/my-first-post/</guid>
-      <description>test of alltext</description>
-    </item>
-    
   </channel>
 </rss>
