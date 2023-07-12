@@ -6,7 +6,16 @@
     <description>Recent content in Posts on alltext</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jul 2023 03:24:13 +0800</lastBuildDate><atom:link href="https://llm1538.github.io/alltext.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Jul 2023 19:29:12 +0800</lastBuildDate><atom:link href="https://llm1538.github.io/alltext.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About modular.khiat</title>
+      <link>https://llm1538.github.io/alltext.github.io/posts/about/</link>
+      <pubDate>Wed, 12 Jul 2023 19:29:12 +0800</pubDate>
+      
+      <guid>https://llm1538.github.io/alltext.github.io/posts/about/</guid>
+      <description>##test</description>
+    </item>
+    
     <item>
       <title>My 2first Post</title>
       <link>https://llm1538.github.io/alltext.github.io/posts/my-2first-post/</link>
