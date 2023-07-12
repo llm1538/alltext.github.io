@@ -6,7 +6,16 @@
     <description>Recent content in Photos on alltext</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://eggstudio.de/photos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://eggstudio.de/photos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>vco.40106-1 ver_0.1</title>
+      <link>https://eggstudio.de/photos/vco.40106-1/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://eggstudio.de/photos/vco.40106-1/</guid>
+      <description>The pizo_duo ver 0.1 is kool. Designed by Sitao Yang also known as Khiat.</description>
+    </item>
+    
     <item>
       <title>64hp_3u</title>
       <link>https://eggstudio.de/photos/64hp_3u/</link>
@@ -23,15 +32,6 @@
       
       <guid>https://eggstudio.de/photos/piezo_duo-1/</guid>
       <description>The pizo_duo ver 0.1 is kool. Designed by Sitao Yang also known as Khiat. Double preamp of piezo.</description>
-    </item>
-    
-    <item>
-      <title>Warsaw, Poland</title>
-      <link>https://eggstudio.de/photos/warsaw-poland/</link>
-      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://eggstudio.de/photos/warsaw-poland/</guid>
-      <description>Palace of Culture and Science (Polish: Pałac Kultury i Nauki), is a notable high-rise building in central Warsaw, Poland. With a total height of 237 metres (778 ft) it is the tallest building in Poland, the 5th-tallest building in the European Union (including spire) and one of the tallest on the European continent. Constructed in 1955, it houses various public and cultural institutions such as cinemas, theatres, libraries, sports clubs, university faculties and authorities of the Polish Academy of Sciences.</description>
     </item>
     
   </channel>
