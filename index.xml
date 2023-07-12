@@ -42,9 +42,7 @@
       <guid>https://llm1538.github.io/alltext.github.io/about/</guid>
       <description>A minimal, responsive and light theme for Hugo inspired by Linux console.
 Installation $ mkdir themes $ cd themes $ git submodule add https://github.com/mrmierzejewski/hugo-theme-console.git hugo-theme-console See the Hugo documentation for more information.
-Configuration Set theme parameter in your config file:
-theme = &amp;#34;hugo-theme-console&amp;#34; License Copyright © 2020 Marcin Mierzejewski
-The theme is released under the MIT License. Check the original theme license for additional licensing information.</description>
+Khiat </description>
     </item>
     
   </channel>
