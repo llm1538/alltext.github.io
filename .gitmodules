@@ -1,0 +1,4 @@
+[submodule "alltext.github.io"]
+	path = alltext.github.io
+	url = https://github.com/llm1538/alltext.github.io.git
+	branch = main
