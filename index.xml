@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>alltext</title>
+    <title>modular.khiat</title>
     <link>https://eggstudio.de/</link>
-    <description>Recent content on alltext</description>
+    <description>Recent content on modular.khiat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Jul 2023 20:18:25 +0800</lastBuildDate><atom:link href="https://eggstudio.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://eggstudio.de/about/</link>
+      <pubDate>Sat, 22 Jul 2023 21:05:33 +0530</pubDate>
+      
+      <guid>https://eggstudio.de/about/</guid>
+      <description>modular.khiat: 品牌介绍: modular.khiat [模块乌戛] 是电子音乐人/声音设计师 oo-khiat 的独立合成器品牌. 价格高昂, 功能繁杂, 菜单深邃, 过度集成的合成器模块横行. 直接的, 简单的, 纯粹的合成器审美反而成为了稀缺的态度, 甚至被慢慢淡忘. modular.khiat 将围绕低成本, 纯模拟/极简的设计思路和美学, 首先推出一个基础的 eurorack 模块系统. 另外 oo-khiat 本人的一些具有实验意味的工具/做法, 也将会凝聚成电路的产品, 经由模块这个媒介分享出来.
+hp.liberal: 品牌介绍: 是 modular.khiat 的周边产品系列. &amp;quot; hp &amp;quot; 是模块合成器系统的宽度单位, 而 &amp;quot; HP自由 &amp;quot; 意味着模块数量和体积的解放: 不再因模块合成器的高昂价格而囊中羞涩, 从而促进各位玩家/乐手/DIYer实现组装自由, 合成自由和演奏自由! 这系列产品将秉持极简设计, 高适应性和优良手感的原则, 提供 eurorack 格式下的电源/轨道/箱体/线材等产品.
+现在,一个三人的团队已经成立并紧凑地工作起来了,他们是:
+电路设计/硬件/统筹：乌戛 oo-khiat 机箱设计/物料：夏天 XIA 视觉/宣发/网站：[圆形科技局] EGGSTUDIO modular.khiat 开发进展，按可能的顺序： p.att｜三通道无源衰减器 [在售] vco.40106｜40106锯齿波核压控振荡器 [内测] mix.3m.clip｜三通道LED失真混音器 [内测] osc.vtl｜光耦压控双振荡器 [内测/优化] mix.5st｜五通道立体声混音器 [优化] amp.alma｜高倍数音频放大器与限制器 [硬件设计] vcf.dl｜二极管阶梯多模式滤波器 [硬件设计] ar.</description>
+    </item>
+    
     <item>
       <title>Piezo_duo</title>
       <link>https://eggstudio.de/posts/piezo_duo/</link>
@@ -68,16 +80,6 @@
       
       <guid>https://eggstudio.de/posts/&#43;-/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://eggstudio.de/about/</link>
-      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
-      
-      <guid>https://eggstudio.de/about/</guid>
-      <description>See the 圆形科技局 for more information.
-Khiat </description>
     </item>
     
   </channel>
