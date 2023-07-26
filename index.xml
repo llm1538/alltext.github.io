@@ -118,5 +118,15 @@ hp.liberal: 品牌介绍: 是 modular.khiat 的周边产品系列. &amp;quot; hp
       <description></description>
     </item>
     
+    <item>
+      <title>Aug_release</title>
+      <link>https://eggstudio.de/photos/aug_release/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eggstudio.de/photos/aug_release/</guid>
+      <description>Designed by Sitao Yang also known as Khiat.
+Photo shotted by Yue Shi also known as [圆形科技局].</description>
+    </item>
+    
   </channel>
 </rss>
